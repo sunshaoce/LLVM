@@ -10,5 +10,5 @@ LLVM的更新非常迅速，希望各位使用者多多PR，来保证教程的�
 
 ### 内容页
 
-- [LLVM 简介及配置.md](./intro.md)
+- [LLVM 简介及配置](./intro.md)
 - [LLVM IR 介绍](./IR.md)
